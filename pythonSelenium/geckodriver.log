@@ -1,0 +1,47 @@
+1603204409464	geckodriver	INFO	Listening on 127.0.0.1:50714
+1603204412534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pc\\AppData\\Local\\Temp\\rust_mozprofileE3pF6L"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603204418865	Marionette	INFO	Listening on port 50722
+1603204421379	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603204435093	Marionette	INFO	Stopped listening on port 50722
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612799146877	geckodriver	INFO	Listening on 127.0.0.1:50566
+1612799149747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pc\\AppData\\Local\\Temp\\rust_mozprofileJEAPnC"
+1612799284375	geckodriver	INFO	Listening on 127.0.0.1:50603
+1612799287624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pc\\AppData\\Local\\Temp\\rust_mozprofilesjGDnB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612799295698	Marionette	INFO	Listening on port 50611
+1612799297165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612799297278	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612799309748	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:3313:11
+1612799309806	Marionette	INFO	Stopped listening on port 50611
+1612799404536	geckodriver	INFO	Listening on 127.0.0.1:50717
+1612799407608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pc\\AppData\\Local\\Temp\\rust_mozprofilehgrQeN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 4344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612799412893	Marionette	INFO	Listening on port 50725
+1612799414552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612799414631	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210202/r20190131/show_ads_impl_fy2019.js, line 244: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20210202/r20190131/show_ads_impl_fy2019.js, line 244: Error: XHR error: https://partner.googleadservices.com/gampad/cookie.js?domain=rahulshettyacademy.com&client=ca-pub-9851078085090971&cookie=ID=c04c52113cc2cf8b-224a2347f8c50061:T=1612799425:RT=1612799425:S=ALNI_MZckwgorno491I8-h261FM9GkG7xQ
+1612799426708	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://marionette/content/driver.js:3313:11
+1612799426859	Marionette	INFO	Stopped listening on port 50725

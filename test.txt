@@ -1,0 +1,6 @@
+amit
+elephant
+dog
+cat
+rat
+abc

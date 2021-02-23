@@ -1,0 +1,15 @@
+ 2020-12-07 21:05:16,561 : INFO : pythonSelenium.PytestDemo.test_logging : Print Information messages
+2020-12-07 21:05:16,562 : WARNING : pythonSelenium.PytestDemo.test_logging : Something is in the warning mode
+2020-12-07 21:05:16,562 : ERROR : pythonSelenium.PytestDemo.test_logging : A major error has happened
+2020-12-07 21:05:16,562 : CRITICAL : pythonSelenium.PytestDemo.test_logging : some critical information
+2020-12-07 21:08:18,359 : DEBUG : pythonSelenium.PytestDemo.test_logging : A debug statement is executed
+2020-12-07 21:08:18,360 : INFO : pythonSelenium.PytestDemo.test_logging : Print Information messages
+2020-12-07 21:08:18,360 : WARNING : pythonSelenium.PytestDemo.test_logging : Something is in the warning mode
+2020-12-07 21:08:18,362 : ERROR : pythonSelenium.PytestDemo.test_logging : A major error has happened
+2020-12-07 21:08:18,362 : CRITICAL : pythonSelenium.PytestDemo.test_logging : some critical information
+2020-12-08 20:43:23,882 : INFO : pythonSelenium.PytestDemo.BaseClass : Rahul
+2020-12-08 20:43:23,882 : INFO : pythonSelenium.PytestDemo.BaseClass : rahulshettyacademy.com
+2020-12-08 20:45:37,009 : INFO : pythonSelenium.PytestDemo.BaseClass : Rahul
+2020-12-08 20:45:37,009 : INFO : pythonSelenium.PytestDemo.BaseClass : rahulshettyacademy.com
+2020-12-09 21:24:41,621 : INFO : pythonSelenium.PytestDemo.BaseClass : Rahul
+2020-12-09 21:24:41,629 : INFO : pythonSelenium.PytestDemo.BaseClass : rahulshettyacademy.com

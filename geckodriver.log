@@ -1,0 +1,19 @@
+1603204133458	geckodriver	INFO	Listening on 127.0.0.1:50582
+1603204135844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pc\\AppData\\Local\\Temp\\rust_mozprofilehtBVTK"
+1603204217553	geckodriver	INFO	Listening on 127.0.0.1:50635
+1603204220773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Pc\\AppData\\Local\\Temp\\rust_mozprofile0TFT7l"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603204225752	Marionette	INFO	Listening on port 50643
+1603204227389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603204240351	Marionette	INFO	Stopped listening on port 50643
+[Parent 3288, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 3288, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 3288, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
